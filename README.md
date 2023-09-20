@@ -6,7 +6,8 @@ In this project there are a bunch of python basic programming language projects 
 
 ```sh
 cd game_directory
-source game_directory/bin/activate
+python3 -m venv env
+source env/bin/activate
 python3 main.py
 ```
 
