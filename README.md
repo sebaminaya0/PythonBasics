@@ -8,6 +8,7 @@ In this project there are a bunch of python basic programming language projects 
 cd game_directory
 python3 -m venv env
 source env/bin/activate
+pip install -r requirements.txt
 python3 main.py
 ```
 
