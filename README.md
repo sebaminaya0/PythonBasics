@@ -1,6 +1,6 @@
 # Python Basics
 
-In this project there are a bunch of python basic programming language projects for you to play around. From the traditional rock, paper, scissors, to the more complex Connect 4. These are simple, yet entertaining to mess around on your terminal.
+In this project there are a bunch of python basic programming language projects for you to play around. From the traditional rock, paper, scissors, to the more complex Connect 4. These are simple, yet entertaining to mess around on your terminal or using pygame.
 
 ## Steps
 
